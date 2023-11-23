@@ -1,0 +1,354 @@
+
+{
+  "dataset": [
+    {
+      "key": "Serve a Grilled Cheese Sandwich to the Person in Red",
+      "value": [
+        [
+          "Go to Bread",
+          "Take Bread",
+          "Go to Yellow Cheese",
+          "Take Yellow Cheese",
+          "Go to Butter",
+          "Take Butter",
+          "Use Knife",
+          "Prepare Yellow Cheese",
+          "Prepare Bread",
+          "Spread Butter on Bread",
+          "Place Yellow Cheese on Bread",
+          "Use Oven",
+          "Grill Bread with Yellow Cheese",
+          "Place Grilled Cheese Sandwich on Plate",
+          "Serve plate to Person in Red"
+        ],
+        [
+          "Go to Butter",
+          "Take Butter",
+          "Go to Bread",
+          "Take Bread",
+          "Use Knife",
+          "Spread Butter on Bread",
+          "Go to Yellow Cheese",
+          "Take Yellow Cheese",
+          "Prepare Yellow Cheese",
+          "Place Yellow Cheese on Bread",
+          "Use Oven",
+          "Grill Bread with Yellow Cheese",
+          "Place Grilled Cheese Sandwich on Plate",
+          "Serve plate to Person in Red"
+        ]
+      ]
+    },
+    {
+      "key": "Serve an Apple Salad to the Person in White",
+      "value": [
+        [
+          "Go to Red Apple",
+          "Take Red Apple",
+          "Go to Green Apple",
+          "Take Green Apple",
+          "Use Knife",
+          "Prepare Red Apple",
+          "Prepare Green Apple",
+          "Use Mixing Bowl",
+          "Mix Red Apple with Green Apple",
+          "Place Apple Salad on Plate",
+          "Serve plate to Person in White"
+        ],
+        [
+          "Go to Green Apple",
+          "Take Green Apple",
+          "Go to Red Apple",
+          "Take Red Apple",
+          "Use Knife",
+          "Prepare Green Apple",
+          "Prepare Red Apple",
+          "Use Mixing Bowl",
+          "Mix Green Apple with Red Apple",
+          "Place Apple Salad on Plate",
+          "Serve plate to Person in White"
+        ]
+      ]
+    },
+    {
+      "key": "Serve Stuffed Bell Peppers to the Person in Green",
+      "value": [
+        [
+          "Go to Red Bell Pepper",
+          "Take Red Bell Pepper",
+          "Go to Green Bell Pepper",
+          "Take Green Bell Pepper",
+          "Go to White Cheese",
+          "Take White Cheese",
+          "Use Knife",
+          "Prepare Red Bell Pepper",
+          "Prepare Green Bell Pepper",
+          "Prepare White Cheese",
+          "Stuff Red Bell Pepper with White Cheese",
+          "Stuff Green Bell Pepper with White Cheese",
+          "Use Oven",
+          "Bake Stuffed Bell Peppers",
+          "Place Stuffed Bell Peppers on Plate",
+          "Serve plate to Person in Green"
+        ],
+        [
+          "Go to Green Bell Pepper",
+          "Take Green Bell Pepper",
+          "Go to Red Bell Pepper",
+          "Take Red Bell Pepper",
+          "Go to White Cheese",
+          "Take White Cheese",
+          "Use Knife",
+          "Prepare Green Bell Pepper",
+          "Prepare Red Bell Pepper",
+          "Prepare White Cheese",
+          "Stuff Green Bell Pepper with White Cheese",
+          "Stuff Red Bell Pepper with White Cheese",
+          "Use Oven",
+          "Bake Stuffed Bell Peppers",
+          "Place Stuffed Bell Peppers on Plate",
+          "Serve plate to Person in Green"
+        ]
+      ]
+    },
+    {
+      "key": "Serve an Omelette to the Person in Yellow",
+      "value": [
+        [
+          "Go to Yellow Egg",
+          "Take Yellow Egg",
+          "Go to White Egg",
+          "Take White Egg",
+          "Go to Salt",
+          "Take Salt",
+          "Go to Herbs",
+          "Take Herbs",
+          "Use Mixing Bowl",
+          "Crack Yellow Egg into Mixing Bowl",
+          "Crack White Egg into Mixing Bowl",
+          "Add Salt to Eggs",
+          "Add Herbs to Eggs",
+          "Use Pot",
+          "Cook Omelette in Pot",
+          "Place Omelette on Plate",
+          "Serve plate to Person in Yellow"
+        ],
+        [
+          "Go to White Egg",
+          "Take White Egg",
+          "Go to Yellow Egg",
+          "Take Yellow Egg",
+          "Go to Herbs",
+          "Take Herbs",
+          "Go to Salt",
+          "Take Salt",
+          "Use Mixing Bowl",
+          "Crack White Egg into Mixing Bowl",
+          "Crack Yellow Egg into Mixing Bowl",
+          "Add Herbs to Eggs",
+          "Add Salt to Eggs",
+          "Use Pot",
+          "Cook Omelette in Pot",
+          "Place Omelette on Plate",
+          "Serve plate to Person in Yellow"
+        ]
+      ]
+    },
+    {
+      "key": "Serve a Turkey Sandwich to the Person in Red",
+      "value": [
+        [
+          "Go to Bread",
+          "Take Bread",
+          "Go to White Meat (Turkey)",
+          "Take White Meat (Turkey)",
+          "Go to Red Onion",
+          "Take Red Onion",
+          "Use Knife",
+          "Prepare Bread",
+          "Prepare White Meat (Turkey)",
+          "Slice Red Onion",
+          "Assemble Turkey Sandwich with Bread, White Meat (Turkey), and Red Onion",
+          "Place Turkey Sandwich on Plate",
+          "Serve plate to Person in Red"
+        ],
+        [
+          "Go to White Meat (Turkey)",
+          "Take White Meat (Turkey)",
+          "Go to Bread",
+          "Take Bread",
+          "Go to Red Onion",
+          "Take Red Onion",
+          "Use Knife",
+          "Prepare White Meat (Turkey)",
+          "Prepare Bread",
+          "Slice Red Onion",
+          "Assemble Turkey Sandwich with Bread, White Meat (Turkey), and Red Onion",
+          "Place Turkey Sandwich on Plate",
+          "Serve plate to Person in Red"
+        ]
+      ]
+    },
+    {
+      "key": "Serve a Beef Steak to the Person in White",
+      "value": [
+        [
+          "Go to Red Meat (Beef)",
+          "Take Red Meat (Beef)",
+          "Go to Salt",
+          "Take Salt",
+          "Go to Herbs",
+          "Take Herbs",
+          "Use Knife",
+          "Prepare Red Meat (Beef)",
+          "Season Red Meat (Beef) with Salt and Herbs",
+          "Use Oven",
+          "Grill Beef Steak",
+          "Place Beef Steak on Plate",
+          "Serve plate to Person in White"
+        ],
+        [
+          "Go to Herbs",
+          "Take Herbs",
+          "Go to Salt",
+          "Take Salt",
+          "Go to Red Meat (Beef)",
+          "Take Red Meat (Beef)",
+          "Use Knife",
+          "Prepare Red Meat (Beef)",
+          "Season Red Meat (Beef) with Herbs and Salt",
+          "Use Oven",
+          "Grill Beef Steak",
+          "Place Beef Steak on Plate",
+          "Serve plate to Person in White"
+        ]
+      ]
+    },
+    {
+      "key": "Serve a Ham and Cheese Omelette to the Person in Green",
+      "value": [
+        [
+          "Go to Yellow Egg",
+          "Take Yellow Egg",
+          "Go to Ham",
+          "Take Ham",
+          "Go to Yellow Cheese",
+          "Take Yellow Cheese",
+          "Use Mixing Bowl",
+          "Crack Yellow Egg into Mixing Bowl",
+          "Dice Ham",
+          "Grate Yellow Cheese",
+          "Mix Ham and Yellow Cheese with Egg",
+          "Use Pot",
+          "Cook Ham and Cheese Omelette in Pot",
+          "Place Ham and Cheese Omelette on Plate",
+          "Serve plate to Person in Green"
+        ],
+        [
+          "Go to Ham",
+          "Take Ham",
+          "Go to Yellow Cheese",
+          "Take Yellow Cheese",
+          "Go to Yellow Egg",
+          "Take Yellow Egg",
+          "Use Mixing Bowl",
+          "Dice Ham",
+          "Grate Yellow Cheese",
+          "Crack Yellow Egg into Mixing Bowl",
+          "Mix Ham and Yellow Cheese with Egg",
+          "Use Pot",
+          "Cook Ham and Cheese Omelette in Pot",
+          "Place Ham and Cheese Omelette on Plate",
+          "Serve plate to Person in Green"
+        ]
+      ]
+    },
+    {
+      "key": "Serve a Cheese Platter to the Person in Yellow",
+      "value": [
+        [
+          "Go to White Cheese",
+          "Take White Cheese",
+          "Go to Yellow Cheese",
+          "Take Yellow Cheese",
+          "Use Knife",
+          "Slice White Cheese",
+          "Slice Yellow Cheese",
+          "Arrange Cheese on Plate",
+          "Serve plate to Person in Yellow"
+        ],
+        [
+          "Go to Yellow Cheese",
+          "Take Yellow Cheese",
+          "Go to White Cheese",
+          "Take White Cheese",
+          "Use Knife",
+          "Slice Yellow Cheese",
+          "Slice White Cheese",
+          "Arrange Cheese on Plate",
+          "Serve plate to Person in Yellow"
+        ]
+      ]
+    },
+    {
+      "key": "Serve a Bell Pepper Salad to the Person in Red",
+      "value": [
+        [
+          "Go to Red Bell Pepper",
+          "Take Red Bell Pepper",
+          "Go to Green Bell Pepper",
+          "Take Green Bell Pepper",
+          "Use Knife",
+          "Slice Red Bell Pepper",
+          "Slice Green Bell Pepper",
+          "Use Mixing Bowl",
+          "Mix Red Bell Pepper with Green Bell Pepper",
+          "Place Bell Pepper Salad on Plate",
+          "Serve plate to Person in Red"
+        ],
+        [
+          "Go to Green Bell Pepper",
+          "Take Green Bell Pepper",
+          "Go to Red Bell Pepper",
+          "Take Red Bell Pepper",
+          "Use Knife",
+          "Slice Green Bell Pepper",
+          "Slice Red Bell Pepper",
+          "Use Mixing Bowl",
+          "Mix Green Bell Pepper with Red Bell Pepper",
+          "Place Bell Pepper Salad on Plate",
+          "Serve plate to Person in Red"
+        ]
+      ]
+    },
+    {
+      "key": "Serve Fried Eggs to the Person in White",
+      "value": [
+        [
+          "Go to White Egg",
+          "Take White Egg",
+          "Go to Yellow Egg",
+          "Take Yellow Egg",
+          "Use Pot",
+          "Crack White Egg into Pot",
+          "Crack Yellow Egg into Pot",
+          "Fry Eggs",
+          "Place Fried Eggs on Plate",
+          "Serve plate to Person in White"
+        ],
+        [
+          "Go to Yellow Egg",
+          "Take Yellow Egg",
+          "Go to White Egg",
+          "Take White Egg",
+          "Use Pot",
+          "Crack Yellow Egg into Pot",
+          "Crack White Egg into Pot",
+          "Fry Eggs",
+          "Place Fried Eggs on Plate",
+          "Serve plate to Person in White"
+        ]
+      ]
+    }
+  ]
+}
