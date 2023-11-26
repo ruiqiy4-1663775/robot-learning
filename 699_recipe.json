@@ -8,41 +8,35 @@
       "Go to Butter",
       "Take Butter",
       "Use Knife",
-      "Prepare Yellow Cheese",
       "Prepare Bread",
-      "Spread Butter on Bread",
-      "Place Yellow Cheese on Bread",
+      "Prepare Yellow Cheese",
+      "Prepare Butter",
       "Use Oven",
-      "Grill Bread with Yellow Cheese"
+      "Place Bread in Oven",
+      "Place Yellow Cheese on Bread",
+      "Place Butter on Bread",
+      "Cook Bread"
     ],
     [
-      "Go to Butter",
-      "Take Butter",
+      "Go to Yellow Cheese",
+      "Take Yellow Cheese",
       "Go to Bread",
       "Take Bread",
       "Use Knife",
-      "Spread Butter on Bread",
-      "Go to Yellow Cheese",
-      "Take Yellow Cheese",
       "Prepare Yellow Cheese",
-      "Place Yellow Cheese on Bread",
+      "Prepare Bread",
+      "Go to Butter",
+      "Take Butter",
+      "Prepare Butter",
       "Use Oven",
-      "Grill Bread with Yellow Cheese"
+      "Place Bread in Oven",
+      "Place Yellow Cheese on Bread",
+      "Place Butter on Bread",
+      "Cook Bread"
     ]
   ],
   "Apple Salad": [
     [
-      "Go to Red Apple",
-      "Take Red Apple",
-      "Go to Green Apple",
-      "Take Green Apple",
-      "Use Knife",
-      "Prepare Red Apple",
-      "Prepare Green Apple",
-      "Use Mixing Bowl",
-      "Mix Red Apple with Green Apple"
-    ],
-    [
       "Go to Green Apple",
       "Take Green Apple",
       "Go to Red Apple",
@@ -51,133 +45,334 @@
       "Prepare Green Apple",
       "Prepare Red Apple",
       "Use Mixing Bowl",
-      "Mix Green Apple with Red Apple"
-    ]
-  ],
-  "Stuffed Bell Peppers": [
-    [
-      "Go to Red Bell Pepper",
-      "Take Red Bell Pepper",
-      "Go to Green Bell Pepper",
-      "Take Green Bell Pepper",
-      "Go to White Cheese",
-      "Take White Cheese",
-      "Use Knife",
-      "Prepare Red Bell Pepper",
-      "Prepare Green Bell Pepper",
-      "Prepare White Cheese",
-      "Stuff Red Bell Pepper with White Cheese",
-      "Stuff Green Bell Pepper with White Cheese",
-      "Use Oven",
-      "Bake Stuffed Bell Peppers"
+      "Place Green Apple in Mixing Bowl",
+      "Place Red Apple in Mixing Bowl"
     ],
     [
-      "Go to Green Bell Pepper",
-      "Take Green Bell Pepper",
-      "Go to Red Bell Pepper",
-      "Take Red Bell Pepper",
-      "Go to White Cheese",
-      "Take White Cheese",
+      "Go to Red Apple",
+      "Take Red Apple",
+      "Go to Green Apple",
+      "Take Green Apple",
       "Use Knife",
-      "Prepare Green Bell Pepper",
-      "Prepare Red Bell Pepper",
-      "Prepare White Cheese",
-      "Stuff Green Bell Pepper with White Cheese",
-      "Stuff Red Bell Pepper with White Cheese",
-      "Use Oven",
-      "Bake Stuffed Bell Peppers"
+      "Prepare Red Apple",
+      "Prepare Green Apple",
+      "Use Mixing Bowl",
+      "Place Red Apple in Mixing Bowl",
+      "Place Green Apple in Mixing Bowl"
     ]
   ],
-  "Omelette": [
+  "Fried Eggs": [
     [
       "Go to Yellow Egg",
       "Take Yellow Egg",
       "Go to White Egg",
       "Take White Egg",
-      "Go to Salt",
-      "Take Salt",
-      "Go to Herbs",
-      "Take Herbs",
-      "Use Mixing Bowl",
-      "Crack Yellow Egg into Mixing Bowl",
-      "Crack White Egg into Mixing Bowl",
-      "Add Salt to Eggs",
-      "Add Herbs to Eggs",
       "Use Pot",
-      "Cook Omelette in Pot"
+      "Prepare Yellow Egg",
+      "Prepare White Egg",
+      "Place Yellow Egg in Pot",
+      "Place White Egg in Pot",
+      "Cook Eggs"
     ],
     [
       "Go to White Egg",
       "Take White Egg",
       "Go to Yellow Egg",
       "Take Yellow Egg",
-      "Go to Herbs",
-      "Take Herbs",
-      "Go to Salt",
-      "Take Salt",
-      "Use Mixing Bowl",
-      "Crack White Egg into Mixing Bowl",
-      "Crack Yellow Egg into Mixing Bowl",
-      "Add Herbs to Eggs",
-      "Add Salt to Eggs",
       "Use Pot",
-      "Cook Omelette in Pot"
+      "Prepare White Egg",
+      "Prepare Yellow Egg",
+      "Place White Egg in Pot",
+      "Place Yellow Egg in Pot",
+      "Cook Eggs"
     ]
   ],
-  "Turkey Sandwich": [
+  "Turkey and Cheese Sandwich": [
+    [
+      "Go to Bread",
+      "Take Bread",
+      "Go to White Cheese",
+      "Take White Cheese",
+      "Go to White Meat (Turkey)",
+      "Take White Meat (Turkey)",
+      "Use Knife",
+      "Prepare Bread",
+      "Prepare White Cheese",
+      "Prepare White Meat (Turkey)",
+      "Use Oven",
+      "Place Bread in Oven",
+      "Place White Cheese on Bread",
+      "Place White Meat (Turkey) on Bread",
+      "Cook Bread"
+    ],
+    [
+      "Go to White Meat (Turkey)",
+      "Take White Meat (Turkey)",
+      "Go to White Cheese",
+      "Take White Cheese",
+      "Go to Bread",
+      "Take Bread",
+      "Use Knife",
+      "Prepare White Meat (Turkey)",
+      "Prepare White Cheese",
+      "Prepare Bread",
+      "Use Oven",
+      "Place Bread in Oven",
+      "Place White Cheese on Bread",
+      "Place White Meat (Turkey) on Bread",
+      "Cook Bread"
+    ]
+  ],
+  "Bell Pepper Omelette": [
+    [
+      "Go to Red Bell Pepper",
+      "Take Red Bell Pepper",
+      "Go to Green Bell Pepper",
+      "Take Green Bell Pepper",
+      "Go to Yellow Egg",
+      "Take Yellow Egg",
+      "Use Knife",
+      "Prepare Red Bell Pepper",
+      "Prepare Green Bell Pepper",
+      "Prepare Yellow Egg",
+      "Use Pot",
+      "Place Red Bell Pepper in Pot",
+      "Place Green Bell Pepper in Pot",
+      "Place Yellow Egg in Pot",
+      "Cook Omelette"
+    ],
+    [
+      "Go to Green Bell Pepper",
+      "Take Green Bell Pepper",
+      "Go to Red Bell Pepper",
+      "Take Red Bell Pepper",
+      "Go to Yellow Egg",
+      "Take Yellow Egg",
+      "Use Knife",
+      "Prepare Green Bell Pepper",
+      "Prepare Red Bell Pepper",
+      "Prepare Yellow Egg",
+      "Use Pot",
+      "Place Green Bell Pepper in Pot",
+      "Place Red Bell Pepper in Pot",
+      "Place Yellow Egg in Pot",
+      "Cook Omelette"
+    ]
+  ],
+  "Beef Steak with Herbs": [
+    [
+      "Go to Red Meat (Beef)",
+      "Take Red Meat (Beef)",
+      "Go to Herbs",
+      "Take Herbs",
+      "Use Knife",
+      "Prepare Red Meat (Beef)",
+      "Prepare Herbs",
+      "Use Oven",
+      "Place Red Meat (Beef) in Oven",
+      "Place Herbs on Red Meat (Beef)",
+      "Cook Beef"
+    ],
+    [
+      "Go to Herbs",
+      "Take Herbs",
+      "Go to Red Meat (Beef)",
+      "Take Red Meat (Beef)",
+      "Use Knife",
+      "Prepare Herbs",
+      "Prepare Red Meat (Beef)",
+      "Use Oven",
+      "Place Herbs on Red Meat (Beef)",
+      "Place Red Meat (Beef) in Oven",
+      "Cook Beef"
+    ]
+  ],
+  "Ham and Red Onion Sandwich": [
+    [
+      "Go to Bread",
+      "Take Bread",
+      "Go to Ham",
+      "Take Ham",
+      "Go to Red Onions",
+      "Take Red Onions",
+      "Use Knife",
+      "Prepare Bread",
+      "Prepare Ham",
+      "Prepare Red Onions",
+      "Use Oven",
+      "Place Bread in Oven",
+      "Place Ham on Bread",
+      "Place Red Onions on Bread",
+      "Cook Bread"
+    ],
+    [
+      "Go to Red Onions",
+      "Take Red Onions",
+      "Go to Ham",
+      "Take Ham",
+      "Go to Bread",
+      "Take Bread",
+      "Use Knife",
+      "Prepare Red Onions",
+      "Prepare Ham",
+      "Prepare Bread",
+      "Use Oven",
+      "Place Red Onions on Bread",
+      "Place Ham on Bread",
+      "Place Bread in Oven",
+      "Cook Bread"
+    ]
+  ],
+  "Turkey and Green Bell Pepper Wrap": [
     [
       "Go to Bread",
       "Take Bread",
       "Go to White Meat (Turkey)",
       "Take White Meat (Turkey)",
-      "Go to Red Onion",
-      "Take Red Onion",
+      "Go to Green Bell Pepper",
+      "Take Green Bell Pepper",
       "Use Knife",
       "Prepare Bread",
       "Prepare White Meat (Turkey)",
-      "Slice Red Onion",
-      "Assemble Turkey Sandwich with Bread, White Meat (Turkey), and Red Onion"
+      "Prepare Green Bell Pepper",
+      "Use Oven",
+      "Place Bread in Oven",
+      "Place White Meat (Turkey) on Bread",
+      "Place Green Bell Pepper on Bread",
+      "Cook Bread"
     ],
     [
+      "Go to Green Bell Pepper",
+      "Take Green Bell Pepper",
       "Go to White Meat (Turkey)",
       "Take White Meat (Turkey)",
       "Go to Bread",
       "Take Bread",
-      "Go to Red Onion",
-      "Take Red Onion",
       "Use Knife",
+      "Prepare Green Bell Pepper",
       "Prepare White Meat (Turkey)",
       "Prepare Bread",
-      "Slice Red Onion",
-      "Assemble Turkey Sandwich with Bread, White Meat (Turkey), and Red Onion"
+      "Use Oven",
+      "Place Green Bell Pepper on Bread",
+      "Place White Meat (Turkey) on Bread",
+      "Place Bread in Oven",
+      "Cook Bread"
     ]
   ],
-  "Beef Steak": [
+  "Cheese and Herb Stuffed Bell Peppers": [
     [
-      "Go to Red Meat (Beef)",
-      "Take Red Meat (Beef)",
-      "Go to Salt",
-      "Take Salt",
+      "Go to Red Bell Pepper",
+      "Take Red Bell Pepper",
+      "Go to Yellow Cheese",
+      "Take Yellow Cheese",
       "Go to Herbs",
       "Take Herbs",
       "Use Knife",
-      "Prepare Red Meat (Beef)",
-      "Season Red Meat (Beef) with Salt and Herbs",
+      "Prepare Red Bell Pepper",
+      "Prepare Yellow Cheese",
+      "Prepare Herbs",
       "Use Oven",
-      "Grill Beef Steak"
+      "Place Red Bell Pepper in Oven",
+      "Place Yellow Cheese in Red Bell Pepper",
+      "Place Herbs on Yellow Cheese",
+      "Cook Bell Peppers"
     ],
     [
       "Go to Herbs",
       "Take Herbs",
-      "Go to Salt",
-      "Take Salt",
-      "Go to Red Meat (Beef)",
-      "Take Red Meat (Beef)",
+      "Go to Yellow Cheese",
+      "Take Yellow Cheese",
+      "Go to Red Bell Pepper",
+      "Take Red Bell Pepper",
       "Use Knife",
-      "Prepare Red Meat (Beef)",
-      "Season Red Meat (Beef) with Herbs and Salt",
+      "Prepare Herbs",
+      "Prepare Yellow Cheese",
+      "Prepare Red Bell Pepper",
       "Use Oven",
-      "Grill Beef Steak"
+      "Place Herbs on Yellow Cheese",
+      "Place Yellow Cheese in Red Bell Pepper",
+      "Place Red Bell Pepper in Oven",
+      "Cook Bell Peppers"
+    ]
+  ],
+  "Egg and Ham Breakfast Skillet": [
+    [
+      "Go to White Egg",
+      "Take White Egg",
+      "Go to Ham",
+      "Take Ham",
+      "Use Knife",
+      "Prepare White Egg",
+      "Prepare Ham",
+      "Use Pot",
+      "Place White Egg in Pot",
+      "Place Ham in Pot",
+      "Cook Breakfast"
+    ],
+    [
+      "Go to Ham",
+      "Take Ham",
+      "Go to White Egg",
+      "Take White Egg",
+      "Use Knife",
+      "Prepare Ham",
+      "Prepare White Egg",
+      "Use Pot",
+      "Place Ham in Pot",
+      "Place White Egg in Pot",
+      "Cook Breakfast"
+    ]
+  ],
+  "Onion and Herb Roast": [
+    [
+      "Go to Yellow Onions",
+      "Take Yellow Onions",
+      "Go to Herbs",
+      "Take Herbs",
+      "Use Knife",
+      "Prepare Yellow Onions",
+      "Prepare Herbs",
+      "Use Oven",
+      "Place Yellow Onions in Oven",
+      "Place Herbs on Yellow Onions",
+      "Cook Onions"
+    ],
+    [
+      "Go to Herbs",
+      "Take Herbs",
+      "Go to Yellow Onions",
+      "Take Yellow Onions",
+      "Use Knife",
+      "Prepare Herbs",
+      "Prepare Yellow Onions",
+      "Use Oven",
+      "Place Herbs on Yellow Onions",
+      "Place Yellow Onions in Oven",
+      "Cook Onions"
+    ]
+  ],
+  "Apple and Cheese Platter": [
+    [
+      "Go to Red Apple",
+      "Take Red Apple",
+      "Go to White Cheese",
+      "Take White Cheese",
+      "Use Knife",
+      "Prepare Red Apple",
+      "Prepare White Cheese",
+      "Place Red Apple on Plate",
+      "Place White Cheese on Plate"
+    ],
+    [
+      "Go to White Cheese",
+      "Take White Cheese",
+      "Go to Red Apple",
+      "Take Red Apple",
+      "Use Knife",
+      "Prepare White Cheese",
+      "Prepare Red Apple",
+      "Place White Cheese on Plate",
+      "Place Red Apple on Plate"
     ]
   ],
   "Ham and Cheese Omelette": [
@@ -188,13 +383,15 @@
       "Take Ham",
       "Go to Yellow Cheese",
       "Take Yellow Cheese",
-      "Use Mixing Bowl",
-      "Crack Yellow Egg into Mixing Bowl",
-      "Dice Ham",
-      "Grate Yellow Cheese",
-      "Mix Ham and Yellow Cheese with Egg",
+      "Use Knife",
+      "Prepare Yellow Egg",
+      "Prepare Ham",
+      "Prepare Yellow Cheese",
       "Use Pot",
-      "Cook Ham and Cheese Omelette in Pot"
+      "Place Yellow Egg in Pot",
+      "Place Ham in Pot",
+      "Place Yellow Cheese in Pot",
+      "Cook Omelette"
     ],
     [
       "Go to Ham",
@@ -203,351 +400,233 @@
       "Take Yellow Cheese",
       "Go to Yellow Egg",
       "Take Yellow Egg",
-      "Use Mixing Bowl",
-      "Dice Ham",
-      "Grate Yellow Cheese",
-      "Crack Yellow Egg into Mixing Bowl",
-      "Mix Ham and Yellow Cheese with Egg",
+      "Use Knife",
+      "Prepare Ham",
+      "Prepare Yellow Cheese",
+      "Prepare Yellow Egg",
       "Use Pot",
-      "Cook Ham and Cheese Omelette in Pot"
-    ]
-  ],
-  "Cheese Platter": [
-    [
-      "Go to White Cheese",
-      "Take White Cheese",
-      "Go to Yellow Cheese",
-      "Take Yellow Cheese",
-      "Use Knife",
-      "Slice White Cheese",
-      "Slice Yellow Cheese",
-      "Arrange Cheese on Plate"
-    ],
-    [
-      "Go to Yellow Cheese",
-      "Take Yellow Cheese",
-      "Go to White Cheese",
-      "Take White Cheese",
-      "Use Knife",
-      "Slice Yellow Cheese",
-      "Slice White Cheese",
-      "Arrange Cheese on Plate"
-    ]
-  ],
-  "Bell Pepper Salad": [
-    [
-      "Go to Red Bell Pepper",
-      "Take Red Bell Pepper",
-      "Go to Green Bell Pepper",
-      "Take Green Bell Pepper",
-      "Use Knife",
-      "Slice Red Bell Pepper",
-      "Slice Green Bell Pepper",
-      "Use Mixing Bowl",
-      "Mix Red Bell Pepper with Green Bell Pepper"
-    ],
-    [
-      "Go to Green Bell Pepper",
-      "Take Green Bell Pepper",
-      "Go to Red Bell Pepper",
-      "Take Red Bell Pepper",
-      "Use Knife",
-      "Slice Green Bell Pepper",
-      "Slice Red Bell Pepper",
-      "Use Mixing Bowl",
-      "Mix Green Bell Pepper with Red Bell Pepper"
-    ]
-  ],
-  "Fried Eggs": [
-    [
-      "Go to White Egg",
-      "Take White Egg",
-      "Go to Yellow Egg",
-      "Take Yellow Egg",
-      "Use Pot",
-      "Crack White Egg into Pot",
-      "Crack Yellow Egg into Pot",
-      "Fry Eggs"
-    ],
-    [
-      "Go to Yellow Egg",
-      "Take Yellow Egg",
-      "Go to White Egg",
-      "Take White Egg",
-      "Use Pot",
-      "Crack Yellow Egg into Pot",
-      "Crack White Egg into Pot",
-      "Fry Eggs"
-    ]
-  ],
-  "Ham and Red Onion Sandwich": [
-    [
-      "Go to Bread",
-      "Take Bread",
-      "Go to Ham",
-      "Take Ham",
-      "Go to Red Onion",
-      "Take Red Onion",
-      "Use Knife",
-      "Prepare Bread",
-      "Slice Ham",
-      "Slice Red Onion",
-      "Assemble Sandwich with Bread, Ham, and Red Onion"
-    ],
-    [
-      "Go to Ham",
-      "Take Ham",
-      "Go to Red Onion",
-      "Take Red Onion",
-      "Go to Bread",
-      "Take Bread",
-      "Use Knife",
-      "Slice Ham",
-      "Slice Red Onion",
-      "Prepare Bread",
-      "Assemble Sandwich with Bread, Ham, and Red Onion"
-    ]
-  ],
-  "Turkey and Cheese Wrap": [
-    [
-      "Go to Bread",
-      "Take Bread",
-      "Go to White Meat (Turkey)",
-      "Take White Meat (Turkey)",
-      "Go to White Cheese",
-      "Take White Cheese",
-      "Use Knife",
-      "Prepare Bread",
-      "Slice White Meat (Turkey)",
-      "Slice White Cheese",
-      "Assemble Wrap with Bread, White Meat (Turkey), and White Cheese"
-    ],
-    [
-      "Go to White Cheese",
-      "Take White Cheese",
-      "Go to White Meat (Turkey)",
-      "Take White Meat (Turkey)",
-      "Go to Bread",
-      "Take Bread",
-      "Use Knife",
-      "Slice White Cheese",
-      "Slice White Meat (Turkey)",
-      "Prepare Bread",
-      "Assemble Wrap with Bread, White Meat (Turkey), and White Cheese"
+      "Place Ham in Pot",
+      "Place Yellow Cheese in Pot",
+      "Place Yellow Egg in Pot",
+      "Cook Omelette"
     ]
   ],
   "Beef and Bell Pepper Stir-Fry": [
     [
       "Go to Red Meat (Beef)",
       "Take Red Meat (Beef)",
-      "Go to Red Bell Pepper",
-      "Take Red Bell Pepper",
       "Go to Green Bell Pepper",
       "Take Green Bell Pepper",
       "Use Knife",
-      "Slice Red Meat (Beef)",
-      "Slice Red Bell Pepper",
-      "Slice Green Bell Pepper",
+      "Prepare Red Meat (Beef)",
+      "Prepare Green Bell Pepper",
       "Use Pot",
-      "Stir-Fry Beef with Red Bell Pepper and Green Bell Pepper"
+      "Place Red Meat (Beef) in Pot",
+      "Place Green Bell Pepper in Pot",
+      "Cook Stir-Fry"
     ],
     [
       "Go to Green Bell Pepper",
       "Take Green Bell Pepper",
-      "Go to Red Bell Pepper",
-      "Take Red Bell Pepper",
       "Go to Red Meat (Beef)",
       "Take Red Meat (Beef)",
       "Use Knife",
-      "Slice Green Bell Pepper",
-      "Slice Red Bell Pepper",
-      "Slice Red Meat (Beef)",
+      "Prepare Green Bell Pepper",
+      "Prepare Red Meat (Beef)",
       "Use Pot",
-      "Stir-Fry Beef with Green Bell Pepper and Red Bell Pepper"
+      "Place Green Bell Pepper in Pot",
+      "Place Red Meat (Beef) in Pot",
+      "Cook Stir-Fry"
     ]
   ],
-  "Herb Butter": [
+  "Turkey and Cheese Melt": [
     [
+      "Go to Bread",
+      "Take Bread",
+      "Go to White Meat (Turkey)",
+      "Take White Meat (Turkey)",
+      "Go to White Cheese",
+      "Take White Cheese",
+      "Use Knife",
+      "Prepare Bread",
+      "Prepare White Meat (Turkey)",
+      "Prepare White Cheese",
+      "Use Oven",
+      "Place Bread in Oven",
+      "Place White Meat (Turkey) on Bread",
+      "Place White Cheese on Bread",
+      "Cook Bread"
+    ],
+    [
+      "Go to White Cheese",
+      "Take White Cheese",
+      "Go to White Meat (Turkey)",
+      "Take White Meat (Turkey)",
+      "Go to Bread",
+      "Take Bread",
+      "Use Knife",
+      "Prepare White Cheese",
+      "Prepare White Meat (Turkey)",
+      "Prepare Bread",
+      "Use Oven",
+      "Place White Cheese on Bread",
+      "Place White Meat (Turkey) on Bread",
+      "Place Bread in Oven",
+      "Cook Bread"
+    ]
+  ],
+  "Apple and Ham Salad": [
+    [
+      "Go to Green Apple",
+      "Take Green Apple",
+      "Go to Ham",
+      "Take Ham",
+      "Use Knife",
+      "Prepare Green Apple",
+      "Prepare Ham",
+      "Use Mixing Bowl",
+      "Place Green Apple in Mixing Bowl",
+      "Place Ham in Mixing Bowl"
+    ],
+    [
+      "Go to Ham",
+      "Take Ham",
+      "Go to Green Apple",
+      "Take Green Apple",
+      "Use Knife",
+      "Prepare Ham",
+      "Prepare Green Apple",
+      "Use Mixing Bowl",
+      "Place Ham in Mixing Bowl",
+      "Place Green Apple in Mixing Bowl"
+    ]
+  ],
+  "Herb Buttered Bread": [
+    [
+      "Go to Bread",
+      "Take Bread",
       "Go to Butter",
       "Take Butter",
       "Go to Herbs",
       "Take Herbs",
       "Use Knife",
-      "Chop Herbs",
-      "Mix Butter with Herbs"
+      "Prepare Bread",
+      "Prepare Butter",
+      "Prepare Herbs",
+      "Use Oven",
+      "Place Bread in Oven",
+      "Place Butter on Bread",
+      "Place Herbs on Butter",
+      "Cook Bread"
     ],
     [
       "Go to Herbs",
       "Take Herbs",
       "Go to Butter",
       "Take Butter",
+      "Go to Bread",
+      "Take Bread",
       "Use Knife",
-      "Chop Herbs",
-      "Mix Herbs with Butter"
+      "Prepare Herbs",
+      "Prepare Butter",
+      "Prepare Bread",
+      "Use Oven",
+      "Place Herbs on Butter",
+      "Place Butter on Bread",
+      "Place Bread in Oven",
+      "Cook Bread"
     ]
   ],
-  "Apple and Cheese Snack": [
+  "Cheese and Herb Stuffed Chicken": [
     [
-      "Go to Red Apple",
-      "Take Red Apple",
-      "Go to Yellow Cheese",
-      "Take Yellow Cheese",
-      "Use Knife",
-      "Slice Red Apple",
-      "Slice Yellow Cheese",
-      "Pair Red Apple Slices with Yellow Cheese Slices"
-    ],
-    [
-      "Go to Yellow Cheese",
-      "Take Yellow Cheese",
-      "Go to Red Apple",
-      "Take Red Apple",
-      "Use Knife",
-      "Slice Yellow Cheese",
-      "Slice Red Apple",
-      "Pair Yellow Cheese Slices with Red Apple Slices"
-    ]
-  ],
-  "Ham and Green Bell Pepper Omelette": [
-    [
-      "Go to White Egg",
-      "Take White Egg",
-      "Go to Ham",
-      "Take Ham",
-      "Go to Green Bell Pepper",
-      "Take Green Bell Pepper",
-      "Use Mixing Bowl",
-      "Crack White Egg into Mixing Bowl",
-      "Dice Ham",
-      "Dice Green Bell Pepper",
-      "Mix Ham and Green Bell Pepper with Egg",
-      "Use Pot",
-      "Cook Ham and Green Bell Pepper Omelette in Pot"
-    ],
-    [
-      "Go to Ham",
-      "Take Ham",
-      "Go to Green Bell Pepper",
-      "Take Green Bell Pepper",
-      "Go to White Egg",
-      "Take White Egg",
-      "Use Mixing Bowl",
-      "Dice Ham",
-      "Dice Green Bell Pepper",
-      "Crack White Egg into Mixing Bowl",
-      "Mix Ham and Green Bell Pepper with Egg",
-      "Use Pot",
-      "Cook Ham and Green Bell Pepper Omelette in Pot"
-    ]
-  ],
-  "Cheese and Herb Spread": [
-    [
+      "Go to White Meat (Turkey)",
+      "Take White Meat (Turkey)",
       "Go to White Cheese",
       "Take White Cheese",
       "Go to Herbs",
       "Take Herbs",
       "Use Knife",
-      "Grate White Cheese",
-      "Chop Herbs",
-      "Mix White Cheese with Herbs"
+      "Prepare White Meat (Turkey)",
+      "Prepare White Cheese",
+      "Prepare Herbs",
+      "Use Oven",
+      "Place White Meat (Turkey) in Oven",
+      "Place White Cheese in White Meat (Turkey)",
+      "Place Herbs on White Cheese",
+      "Cook Turkey"
     ],
     [
       "Go to Herbs",
       "Take Herbs",
       "Go to White Cheese",
       "Take White Cheese",
+      "Go to White Meat (Turkey)",
+      "Take White Meat (Turkey)",
       "Use Knife",
-      "Chop Herbs",
-      "Grate White Cheese",
-      "Mix Herbs with White Cheese"
-    ]
-  ],
-  "Red Onion and Cheese Tart": [
-    [
-      "Go to Bread",
-      "Take Bread",
-      "Go to Red Onion",
-      "Take Red Onion",
-      "Go to Yellow Cheese",
-      "Take Yellow Cheese",
-      "Use Knife",
-      "Prepare Bread",
-      "Slice Red Onion",
-      "Grate Yellow Cheese",
-      "Assemble Tart with Bread, Red Onion, and Yellow Cheese",
+      "Prepare Herbs",
+      "Prepare White Cheese",
+      "Prepare White Meat (Turkey)",
       "Use Oven",
-      "Bake Red Onion and Cheese Tart"
-    ],
-    [
-      "Go to Yellow Cheese",
-      "Take Yellow Cheese",
-      "Go to Red Onion",
-      "Take Red Onion",
-      "Go to Bread",
-      "Take Bread",
-      "Use Knife",
-      "Grate Yellow Cheese",
-      "Slice Red Onion",
-      "Prepare Bread",
-      "Assemble Tart with Bread, Red Onion, and Yellow Cheese",
-      "Use Oven",
-      "Bake Red Onion and Cheese Tart"
+      "Place Herbs on White Cheese",
+      "Place White Cheese in White Meat (Turkey)",
+      "Place White Meat (Turkey) in Oven",
+      "Cook Turkey"
     ]
   ],
-  "Green Apple and Yellow Cheese Salad": [
-    [
-      "Go to Green Apple",
-      "Take Green Apple",
-      "Go to Yellow Cheese",
-      "Take Yellow Cheese",
-      "Use Knife",
-      "Slice Green Apple",
-      "Slice Yellow Cheese",
-      "Use Mixing Bowl",
-      "Mix Green Apple with Yellow Cheese"
-    ],
-    [
-      "Go to Yellow Cheese",
-      "Take Yellow Cheese",
-      "Go to Green Apple",
-      "Take Green Apple",
-      "Use Knife",
-      "Slice Yellow Cheese",
-      "Slice Green Apple",
-      "Use Mixing Bowl",
-      "Mix Yellow Cheese with Green Apple"
-    ]
-  ],
-  "Beef and Herb Butter": [
+  "Beef and Onion Skewers": [
     [
       "Go to Red Meat (Beef)",
       "Take Red Meat (Beef)",
-      "Go to Butter",
-      "Take Butter",
-      "Go to Herbs",
-      "Take Herbs",
+      "Go to Red Onions",
+      "Take Red Onions",
       "Use Knife",
       "Prepare Red Meat (Beef)",
-      "Chop Herbs",
-      "Mix Butter with Herbs",
-      "Spread Herb Butter on Beef",
+      "Prepare Red Onions",
       "Use Oven",
-      "Grill Beef with Herb Butter"
+      "Place Red Meat (Beef) in Oven",
+      "Place Red Onions on Red Meat (Beef)",
+      "Cook Skewers"
     ],
     [
-      "Go to Herbs",
-      "Take Herbs",
-      "Go to Butter",
-      "Take Butter",
+      "Go to Red Onions",
+      "Take Red Onions",
       "Go to Red Meat (Beef)",
       "Take Red Meat (Beef)",
       "Use Knife",
-      "Chop Herbs",
-      "Mix Herbs with Butter",
+      "Prepare Red Onions",
       "Prepare Red Meat (Beef)",
-      "Spread Herb Butter on Beef",
       "Use Oven",
-      "Grill Beef with Herb Butter"
+      "Place Red Onions on Red Meat (Beef)",
+      "Place Red Meat (Beef) in Oven",
+      "Cook Skewers"
+    ]
+  ],
+  "Bell Pepper and Egg Scramble": [
+    [
+      "Go to Green Bell Pepper",
+      "Take Green Bell Pepper",
+      "Go to White Egg",
+      "Take White Egg",
+      "Use Knife",
+      "Prepare Green Bell Pepper",
+      "Prepare White Egg",
+      "Use Pot",
+      "Place Green Bell Pepper in Pot",
+      "Place White Egg in Pot",
+      "Cook Scramble"
+    ],
+    [
+      "Go to White Egg",
+      "Take White Egg",
+      "Go to Green Bell Pepper",
+      "Take Green Bell Pepper",
+      "Use Knife",
+      "Prepare White Egg",
+      "Prepare Green Bell Pepper",
+      "Use Pot",
+      "Place White Egg in Pot",
+      "Place Green Bell Pepper in Pot",
+      "Cook Scramble"
     ]
   ]
 }
