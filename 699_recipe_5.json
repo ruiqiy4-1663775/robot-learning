@@ -43,7 +43,8 @@
                     "Prepare White Cheese",
                     "Prepare Yellow Cheese",
                     "Go to Plate",
-                    "Place White and Yellow Cheese on Plate",
+                    "Place White Cheese on Plate",
+                    "Place Yellow Cheese on Plate",
                     "Serve plate to Person in White"
                 ],
                 [
@@ -55,7 +56,8 @@
                     "Prepare Yellow Cheese",
                     "Prepare White Cheese",
                     "Go to Plate",
-                    "Place White and Yellow Cheese on Plate",
+                    "Place White Cheese on Plate",
+                    "Place Yellow Cheese on Plate",
                     "Serve plate to Person in White"
                 ]
             ]
@@ -73,6 +75,7 @@
                     "Prepare Herbs",
                     "Go to Mixing Bowl",
                     "Prepare Cheese and Herb Spread",
+                    "Go to Plate",
                     "Place Cheese and Herb Spread on Plate",
                     "Serve plate to Person in Green"
                 ],
@@ -86,6 +89,7 @@
                     "Prepare White Cheese",
                     "Go to Mixing Bowl",
                     "Prepare Cheese and Herb Spread",
+                    "Go to Plate",
                     "Place Cheese and Herb Spread on Plate",
                     "Serve plate to Person in Green"
                 ]
@@ -210,8 +214,8 @@
                     "Prepare Red Apple",
                     "Prepare Yellow Cheese",
                     "Go to Mixing Bowl",
-                    "Prepare Red Apple and Yellow Cheese",
-                    "Place Red Apple and Yellow Cheese on Plate",
+                    "Prepare Apple and Cheese Snack",
+                    "Place Apple and Cheese Snack on Plate",
                     "Serve plate to Person in Green"
                 ],
                 [
@@ -223,8 +227,8 @@
                     "Prepare Yellow Cheese",
                     "Prepare Red Apple",
                     "Go to Mixing Bowl",
-                    "Prepare Yellow Cheese and Red Apple",
-                    "Place Yellow Cheese and Red Apple on Plate",
+                    "Prepare Apple and Cheese Snack",
+                    "Place Apple and Cheese Snack on Plate",
                     "Serve plate to Person in Green"
                 ]
             ]
@@ -240,7 +244,7 @@
                     "Go to Knife",
                     "Prepare Herbs",
                     "Go to Mixing Bowl",
-                    "Prepare Butter and Herb",
+                    "Prepare Herb Butter",
                     "Place Herb Butter on Plate",
                     "Serve plate to Person in Yellow"
                 ],
@@ -252,7 +256,7 @@
                     "Go to Knife",
                     "Prepare Herbs",
                     "Go to Mixing Bowl",
-                    "Prepare Herb and Butter",
+                    "Prepare Herb Butter",
                     "Place Herb Butter on Plate",
                     "Serve plate to Person in Yellow"
                 ]
@@ -618,9 +622,7 @@
                     "Prepare Red Bell Pepper",
                     "Prepare Green Bell Pepper",
                     "Go to mixing bowl",
-                    "Prepare White Cheese",
-                    "Use mixing bowl",
-                    "Prepare butter and herb mixture",
+                    "Prepare Stuffed Bell Peppers",
                     "Go to oven",
                     "Prepare Stuffed Bell Peppers",
                     "Place Stuffed Bell Peppers on Plate",
@@ -631,9 +633,7 @@
                     "Prepare Green Bell Pepper",
                     "Prepare Red Bell Pepper",
                     "Go to mixing bowl",
-                    "Prepare White Cheese",
-                    "Use mixing bowl",
-                    "Prepare butter and herb mixture",
+                    "Prepare Stuffed Bell Peppers",
                     "Go to oven",
                     "Prepare Stuffed Bell Peppers",
                     "Place Stuffed Bell Peppers on Plate",
@@ -671,7 +671,7 @@
                     "Prepare Red Meat (Beef)",
                     "Go to Mixing Bowl",
                     "Prepare Beef Steak",
-                    "Use Oven",
+                    "Go to Oven",
                     "Prepare Beef Steak",
                     "Place Beef Steak on Plate",
                     "Serve plate to Person in White"
@@ -775,7 +775,7 @@
                     "Prepare Bread",
                     "Prepare Yellow Cheese",
                     "Go to Mixing Bowl",
-                    "Prepare Butter and Herb",
+                    "Prepare Grilled Cheese Sandwich",
                     "Go to Oven",
                     "Prepare Grilled Cheese Sandwich",
                     "Go to Plate",
@@ -814,7 +814,7 @@
                     "Prepare Red Apple",
                     "Prepare Green Apple",
                     "Go to Mixing Bowl",
-                    "Prepare Red Apple and Green Apple",
+                    "Prepare Apple Salad",
                     "Go to Plate",
                     "Place Apple Salad on Plate",
                     "Serve plate to Person in Yellow"
@@ -828,7 +828,7 @@
                     "Prepare Green Apple",
                     "Prepare Red Apple",
                     "Go to Mixing Bowl",
-                    "Prepare Green Apple and Red Apple",
+                    "Prepare Apple Salad",
                     "Go to Plate",
                     "Place Apple Salad on Plate",
                     "Serve plate to Person in Yellow"
@@ -1031,7 +1031,7 @@
                     "Go to Knife",
                     "Prepare Herbs",
                     "Go to Mixing Bowl",
-                    "Prepare Butter and Herb",
+                    "Prepare Herb Butter",
                     "Go to Plate",
                     "Place Butter and Herb on Plate",
                     "Serve plate to Person in White"
@@ -1044,7 +1044,7 @@
                     "Go to Knife",
                     "Prepare Herbs",
                     "Go to Mixing Bowl",
-                    "Prepare Butter and Herb",
+                    "Prepare Herb Butter",
                     "Go to Plate",
                     "Place Butter and Herb on Plate",
                     "Serve plate to Person in White"
