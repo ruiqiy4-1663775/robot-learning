@@ -1,0 +1,122 @@
+{
+    "dataset": [
+        {
+            "key": "Serve Apple Salad to Person in Green",
+            "value": [
+                [
+                    "Go to Red Apple",
+                    "Take Red Apple",
+                    "Go to Green Apple",
+                    "Take Green Apple",
+                    "Go to Knife",
+                    "Prepare",
+                    "Go to Mixing Bowl",
+                    "Prepare",
+                    "Place Apple Salad on Plate",
+                    "Serve plate to Person in Green"
+                ],
+                [
+                    "Go to Green Apple",
+                    "Take Green Apple",
+                    "Go to Red Apple",
+                    "Take Red Apple",
+                    "Go to Knife",
+                    "Prepare",
+                    "Go to Mixing Bowl",
+                    "Prepare",
+                    "Place Apple Salad on Plate",
+                    "Serve plate to Person in Green"
+                ]
+            ]
+        },
+        {
+            "key": "Cheese Platter for Customer in Yellow",
+            "value": [
+                [
+                    "Go to White Cheese",
+                    "Take White Cheese",
+                    "Go to Yellow Cheese",
+                    "Take Yellow Cheese",
+                    "Go to Knife",
+                    "Prepare",
+                    "Go to Plate",
+                    "Place White Cheese on Plate",
+                    "Place Yellow Cheese on Plate",
+                    "Serve plate to Person in Yellow"
+                ],
+                [
+                    "Go to Yellow Cheese",
+                    "Take Yellow Cheese",
+                    "Go to White Cheese",
+                    "Take White Cheese",
+                    "Go to Knife",
+                    "Prepare",
+                    "Go to Plate",
+                    "Place White Cheese on Plate",
+                    "Place Yellow Cheese on Plate",
+                    "Serve plate to Person in Yellow"
+                ]
+            ]
+        },
+        {
+            "key": "Serve Cheese and Herb Spread to guest in White",
+            "value": [
+                [
+                    "Go to White Cheese",
+                    "Take White Cheese",
+                    "Go to Herbs",
+                    "Take Herbs",
+                    "Go to Knife",
+                    "Prepare",
+                    "Go to Mixing Bowl",
+                    "Prepare",
+                    "Go to Plate",
+                    "Place Cheese and Herb Spread on Plate",
+                    "Serve plate to Person in White"
+                ],
+                [
+                    "Go to Herbs",
+                    "Take Herbs",
+                    "Go to White Cheese",
+                    "Take White Cheese",
+                    "Go to Knife",
+                    "Prepare",
+                    "Go to Mixing Bowl",
+                    "Prepare",
+                    "Go to Plate",
+                    "Place Cheese and Herb Spread on Plate",
+                    "Serve plate to Person in White"
+                ]
+            ]
+        },
+        {
+            "key": "Give the Red Customer a Bell Pepper Salad",
+            "value": [
+                [
+                    "Go to Red Bell Pepper",
+                    "Take Red Bell Pepper",
+                    "Go to Green Bell Pepper",
+                    "Take Green Bell Pepper",
+                    "Go to Knife",
+                    "Prepare",
+                    "Go to Mixing Bowl",
+                    "Prepare",
+                    "Place Bell Pepper Salad on Plate",
+                    "Serve plate to Person in Red"
+                ],
+                [
+                    "Go to Green Bell Pepper",
+                    "Take Green Bell Pepper",
+                    "Go to Red Bell Pepper",
+                    "Take Red Bell Pepper",
+                    "Go to Knife",
+                    "Prepare",
+                    "Go to Mixing Bowl",
+                    "Prepare",
+                    "Place Bell Pepper Salad on Plate",
+                    "Serve plate to Person in Red"
+                ]
+            ]
+        }
+    ]
+}
