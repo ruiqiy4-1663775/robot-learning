@@ -30,11 +30,10 @@ ALL_DESTINATIONS = INGREDIENTS + KITCHEN_TOOLS
 
 MEDIUM_LEVEL_ACTIONS = [
     "Go to",
-    "Use",
     "Prepare",
     "Take",
-    "Drop",
-    "Place"
+    "Place",
+    "Serve"
 ]
 
 LOW_LEVEL_ACTIONS = [
