@@ -1,5 +1,5 @@
 INGREDIENTS = [
-    "Red Onions",
+    "Red Onion",
     "Yellow Onions",
     "Bread",
     "Yellow Cheese",
